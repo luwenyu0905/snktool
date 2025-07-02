@@ -10,7 +10,7 @@
 (function() {
     const AUTH_CODE = prompt("请输入你的授权码");
     const API_URL = 'https://script.google.com/macros/s/AKfycbyQX6PvP6w_IyL-aaSfC4vd6vKYWXkqw6qxxIl1FzVmAJdaNaaHq76ggkRBP6imp222/exec';
-    const SCRIPT_URL = 'https://snk.vercel.app/dist/main.ob.js';
+    const SCRIPT_URL = 'httphttps://snktool.vercel.app/dist/main.ob.js';
 
     if (!AUTH_CODE) return alert("❌ 授权码不能为空");
 
